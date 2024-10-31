@@ -25,8 +25,3 @@ for (int x = 0; x < edificio2.Length; x++) {
         break;
     }
 }
-
-
-Console.WriteLine("Cambio 1");
-Console.WriteLine("Cambio 2");
-Console.WriteLine("Cambio 3");
